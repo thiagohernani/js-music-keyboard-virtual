@@ -18,7 +18,7 @@ Um **piano virtual** desenvolvido com **HTML**, **CSS** e **JavaScript**. Este p
 
 ## 📷 Capturas de Tela
 
-*(Adicione aqui algumas imagens ou GIFs do projeto em funcionamento)*
+**
 
 ---
 
