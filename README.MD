@@ -3,9 +3,8 @@
 Um **piano virtual** desenvolvido com **HTML**, **CSS** e **JavaScript**. Este projeto permite que os usuários toquem diferentes notas musicais diretamente no navegador, seja clicando nas teclas do piano ou usando o teclado do computador.
 
 ## 🔗 Demonstração
-
-(*Adicione aqui o link para a versão ao vivo, como no GitHub Pages ou outro serviço de hospedagem*)
-
+[Visualizar o Piano Virtual](#)  
+<a href="https://thiagohernani.github.io/js-music-keyboard-virtual/"></a>
 ---
 
 ## 🚀 Funcionalidades
