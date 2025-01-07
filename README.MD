@@ -18,7 +18,7 @@ Um **piano virtual** desenvolvido com **HTML**, **CSS** e **JavaScript**. Este p
 
 ## 📷 Capturas de Tela
 
-
+(./img/Captura de tela 2025-01-07 203731.png)
 
 ---
 
