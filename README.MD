@@ -1,6 +1,6 @@
 # Piano Virtual 🎹
 
-Um **piano virtual** desenvolvido com **HTML**, **CSS** e **JavaScript**. Este projeto permite que os usuários toquem diferentes notas musicais diretamente no navegador, seja clicando nas teclas do piano ou usando o teclado do computador.
+<p>Projeto desenvolvido durante o <a href="https://web.dio.me/track/coding-future-front-end-do-zero">Bootcamp Ri Happy - Front-end do Zero</a> com o professor <a href="https://github.com/felipeAguiarCode">Felipe Aguiar</a>. O objetivo desse projeto foi criar uma versão temática do tradicional jogo "Pedra, Papel e Tesoura", inspirada no universo de Yu-Gi-Oh, utilizando apenas HTML, CSS e JavaScript.</p>
 
 ## 🔗 Demonstração
 [Visualizar o Piano Virtual](https://thiagohernani.github.io/js-music-keyboard-virtual/)  
@@ -28,15 +28,3 @@ Um **piano virtual** desenvolvido com **HTML**, **CSS** e **JavaScript**. Este p
 - **CSS**: Estilização do piano virtual.
 - **JavaScript**: Lógica para reproduzir as notas musicais.
 
----
-
-## 📂 Estrutura do Projeto
-
-```plaintext
-📁 piano-virtual/
-├── 📁 css/
-│   └── styles.css
-├── 📁 js/
-│   └── script.js
-├── index.html
-└── README.md
