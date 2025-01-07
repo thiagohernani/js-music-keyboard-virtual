@@ -18,7 +18,7 @@ Um **piano virtual** desenvolvido com **HTML**, **CSS** e **JavaScript**. Este p
 
 ## 📷 Capturas de Tela
 
-![Screen](./img/captura-de-tela-2025-01-07-203731.png)
+![Screen](https://github.com/thiagohernani/js-music-keyboard-virtual/blob/main/src/images/Captura%20de%20tela%202025-01-07%20203731.png?raw=true)
 
 ---
 
