@@ -11,6 +11,7 @@
 
 - 🎵 Tocar notas musicais ao clicar com o mouse nas teclas.
 - ⌨️ Usar o teclado do computador para tocar as notas.
+- 🫣 Poder esconder as letras do piano
 - 💻 Interface responsiva, adaptada para diferentes tamanhos de tela.
 - 🎨 Design simples e elegante.
 
