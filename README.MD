@@ -31,9 +31,6 @@
 <ul>
   <li>
     Os assets utilizados no projeto estão disponíveis no repositório oficial: 
-    <a href="https://github.com/digitalinnovationone/js-yugioh-assets" target="_blank" rel="noopener noreferrer">digitalinnovationone/js-yugioh-assets</a>.
-  </li>
-  <li>
-    Foi utilizado também o framework <a href="https://github.com/RonenNess/RPGUI" target="_blank" rel="noopener noreferrer">RPGUI</a>, que fornece um conjunto de assets no estilo RPG prontos para uso.
+    <a href="https://github.com/felipeAguiarCode/js-music-keyboard-virtual" target="_blank" rel="noopener noreferrer">digitalinnovationone/js-yugioh-assets</a>.
   </li>
 </ul>
