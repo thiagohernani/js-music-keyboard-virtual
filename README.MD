@@ -31,6 +31,6 @@
 <ul>
   <li>
     Os assets utilizados no projeto estão disponíveis no repositório oficial: 
-    <a href="https://github.com/felipeAguiarCode/js-music-keyboard-virtual" target="_blank" rel="noopener noreferrer">digitalinnovationone/js-yugioh-assets</a>.
+    <a href="https://github.com/felipeAguiarCode/js-music-keyboard-virtual" target="_blank" rel="noopener noreferrer">felipeAguiarCode/js-music-keyboard-virtual</a>.
   </li>
 </ul>
